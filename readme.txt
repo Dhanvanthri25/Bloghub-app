@@ -3,6 +3,7 @@ A blogging platform built with the **MERN stack** (MongoDB, Express, React, Node
 Hosted Platforms
 Frontend (Netlify): (https://your-frontend-site.netlify.app)
 Backend (Render): [https://api-node-blogs.onrender.com]
+Database: Hosted on MongoDB Atlas
 
 client - Frontend Folder - cd client - npm install - npm run dev 
 server - Backend Folder - cd server - npm install - npm start
